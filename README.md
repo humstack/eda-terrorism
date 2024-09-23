@@ -1,5 +1,5 @@
 # Machine Learning Project to Analyse Terrorism Data
-## Task 5: Exploratory Data Analysis (Terrorism)
+## Task 4: Exploratory Data Analysis (Terrorism)
 Steps:
 
 * Used Pandas libary to fetch the data as a DataFrame
